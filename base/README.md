@@ -23,6 +23,7 @@
  - `git switch [repo name]` :chuyển sang nhánh mới
  - `git add ` : lưu thông tin để tiến tới bưỡc commit 
  - `git commit` : tạo commit
+ - `git reset` :
  
 
 
