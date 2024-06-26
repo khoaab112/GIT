@@ -23,10 +23,10 @@
 - `git init [tên repo mới muốn tạo]`: tạo ra một repo mới và đặt tên theo yêu cầu
 - `git clone [repo name]` : clone dự án  , tạo bản sao dự án
 - `git config -l` : xem cấu hình hiện tại
-- `git config -l [--scope] [option_name] [value]` : cấu hình repo
-    -   scope : __ `system` => tất cả người dùng
-                __ `global` => liên quan đến nhiều repository
-                __ `local`  => liên quan đến 1 repo
+- `git config -l [--scope] [option_name] [value]` : cấu hình repo \
+    -   scope : __ `system` => tất cả người dùng \
+                __ `global` => liên quan đến nhiều repository \
+                __ `local`  => liên quan đến 1 repo \
  - `git branch` :  xem đang ở nhánh nào
  - `git checkout [repo name]` :chuyển sang nhánh mới
  - `git switch [repo name]` :chuyển sang nhánh mới
@@ -39,8 +39,8 @@
  https://duthanhduoc.com/blog/toi-hoc-lai-git-tu-dau#10-day-code-len-git-server-voi-git-push
  
  # MỘt vài điểm lưu ý :
- `git pull vs git fetch` : cả 2 đều là lấy code từ repo về local nhưng chúng  có sự khác nhau
-    - `git pull` : kéo các commit về local và tạo lệnh merge  chúng ngay dê gây xung đột (lấy toàn bộ code)
+ `git pull vs git fetch` : cả 2 đều là lấy code từ repo về local nhưng chúng  có sự khác nhau \
+    - `git pull` : kéo các commit về local và tạo lệnh merge  chúng ngay dê gây xung đột (lấy toàn bộ code) \
     - `git fetch` :  chỉ kéo các commit về local mà chưa hề tạo lệnh mượt  nếu có sự thay đổi giữa repo và local (đơn giản là lấy thông tin)
 
 
