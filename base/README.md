@@ -36,6 +36,7 @@
  - `git pull` : kéo code từ repository về 
  - `git push` : đẩy các commit mới lên
  - `git fetch` :  lấy các thôgn tin về commit mới
+ - `git branch –all` :  hiển thị danh sách các branch hiện có ở remote repository
  https://duthanhduoc.com/blog/toi-hoc-lai-git-tu-dau#10-day-code-len-git-server-voi-git-push
  
  # MỘt vài điểm lưu ý :
