@@ -28,7 +28,9 @@
 
 - `git branch [branch_name]` : tạo nhánh branch_name từ nhánh hiện tại
 - `git branch -l` : xem nhánh hiện tại
+- `git branch -a` : xem tất cả các nhánh ở local
 - `git branch -d [branch_name]` : xóa nhánh branch_name khỏi git
+- `git push origin -d [branch_name]` : Cập nhật lại trạng thái nhánh đã xóa ở local  || xóa nhánh đó ở local
 
 ----------------------------------------------------------------
 
