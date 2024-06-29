@@ -44,4 +44,9 @@
     - `git pull` : kéo các commit về local và tạo lệnh merge  chúng ngay dê gây xung đột (lấy toàn bộ code) \
     - `git fetch` :  chỉ kéo các commit về local mà chưa hề tạo lệnh mượt  nếu có sự thay đổi giữa repo và local (đơn giản là lấy thông tin)
 
+    ----------------------------------------------------------------
+# tool git : biết thêm thôi chứ cung không đẹp lắm
+`gitk` : xem danh sách commit một cách trực quan hơn qua công cụ
+`git gui` : xem danh sách commit một cách trực quan hơn qua công cụ
+
 
