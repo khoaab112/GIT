@@ -1,7 +1,6 @@
 ```bash
  https://duthanhduoc.com/blog/toi-hoc-lai-git-tu-dau#10-day-code-len-git-server-voi-git-push
-```demo
-
+```
 ## Cơ bản
 
 - `repository` (repo) : Kho lưu trữ
