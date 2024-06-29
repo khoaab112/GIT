@@ -19,7 +19,6 @@
 - `git clean -f  -d` : được sử dụng để xóa các tệp không được theo dõi trong thư mục làm việc của bạn
 - `git push --force origin <branch-name>` :Để xóa các commit này khỏi remote repository
 
-----------------------------------------------------------------
  # GIT REVERT 
  `Git revert được sử dụng để tạo một commit mới, loại bỏ các thay đổi đã được thực hiện trong một hoặc nhiều commit trước đó, và áp dụng các thay đổi đó vào nhánh hiện tại.`
 

@@ -1,3 +1,7 @@
+```bash
+ https://duthanhduoc.com/blog/toi-hoc-lai-git-tu-dau#10-day-code-len-git-server-voi-git-push
+```demo
+
 ## Cơ bản
 
 - `repository` (repo) : Kho lưu trữ
@@ -37,16 +41,15 @@
  - `git push` : đẩy các commit mới lên
  - `git fetch` :  lấy các thôgn tin về commit mới
  - `git branch –all` :  hiển thị danh sách các branch hiện có ở remote repository
- https://duthanhduoc.com/blog/toi-hoc-lai-git-tu-dau#10-day-code-len-git-server-voi-git-push
  
- # MỘt vài điểm lưu ý :
+ # Một vài điểm lưu ý :
  `git pull vs git fetch` : cả 2 đều là lấy code từ repo về local nhưng chúng  có sự khác nhau \
-    - `git pull` : kéo các commit về local và tạo lệnh merge  chúng ngay dê gây xung đột (lấy toàn bộ code) \
-    - `git fetch` :  chỉ kéo các commit về local mà chưa hề tạo lệnh mượt  nếu có sự thay đổi giữa repo và local (đơn giản là lấy thông tin)
+- `git pull` : kéo các commit về local và tạo lệnh merge  chúng ngay dê gây xung đột (lấy toàn bộ code) \
+- `git fetch` :  chỉ kéo các commit về local mà chưa hề tạo lệnh mượt  nếu có sự thay đổi giữa repo và local (đơn giản là lấy thông tin)
 
     ----------------------------------------------------------------
-# tool git : biết thêm thôi chứ cung không đẹp lắm
-`gitk` : xem danh sách commit một cách trực quan hơn qua công cụ
-`git gui` : xem danh sách commit một cách trực quan hơn qua công cụ
+# tool git : biết thêm thôi chứ cũng không đẹp lắm
+- `gitk` : xem danh sách commit một cách trực quan hơn qua công cụ
+- `git gui` : xem danh sách commit một cách trực quan hơn qua công cụ
 
 
