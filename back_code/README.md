@@ -1,6 +1,6 @@
 # Đưa code về một commit nào đó ?
 
-# GIT RESET || GIT REVERT
+#### GIT RESET || GIT REVERT
 ----------------------------------------------------------------
 # GIT RESET 
 - `git reset [hard_commit]` : được sử dụng để di chuyển HEAD (con trỏ chỉ đến commit hiện tại) trỏ đến một commit cụ thể.
