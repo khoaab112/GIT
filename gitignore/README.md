@@ -1,4 +1,4 @@
-# GITIGNORE chỉ định tệp tin || thư mục không theo dõi chúng nữa
+# GITIGNORE :file chỉ định tệp tin || thư mục không theo dõi chúng nữa
 
 - `*.log` : bỏ hết các file có đuôi là log
 - `folder_1/` : bỏ theo dõi  thư mục  folder_1
